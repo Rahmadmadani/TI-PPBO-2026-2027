@@ -13,7 +13,7 @@ public class BiodataSaya {
         System.out.print("Program Studi : ");
         String prodi = sc.nextLine();
 
-        System.out.println("Nama : " + nama + "\nNIM : " + nim + "\nProgram Studi : " + prodi);
+        System.out.print("Nama : " + nama + " - NIM : " + nim + " - Program Studi : " + prodi);
 
     }
 }
